@@ -5,6 +5,7 @@ API_URL="https://api.github.com"
 
 # GitHub username and personal access token
 #comment
+#branch comment
 USERNAME=$username
 TOKEN=$token
 
